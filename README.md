@@ -6,6 +6,7 @@
 ### 项目描述：  
   * 试用tf-gan工具制作动漫头像生成对抗网络
   * tf-gan链接：https://github.com/tensorflow/gan
+  * 训练用的头像(278MB, 96x96, 51223张) 【[百度云](https://pan.baidu.com/s/1lcmXRihOPh8F55l294T45w)：zs1g】
   
 ### README.md（中文版）  
 
@@ -13,6 +14,7 @@
   * 安装：pip install tensorflow_gan  
   * [训练好的例子](https://github.com/tensorflow/gan/tree/master/tensorflow_gan/examples/)  
   * [交互式TF-GAN(Google Cola)](https://github.com/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_tutorial.ipynb)  
+  * [Compare GAN](https://github.com/google/compare_gan)
 ### TF-GAN库的结构  
 #### TF-GAN由几个部分组成，这些部分设计为独立存在：
   * [Core](https://github.com/tensorflow/gan/tree/master/tensorflow_gan/python/train.py): 训练GAN所需的主要基础架构。使用TF-GAN库调用，自定义代码，本机TF代码和其他框架的任意组合设置培训。  
@@ -34,4 +36,6 @@
   * 用 **GANLoss** 指定你的loss函数
   * 用 **GANTrainOps** 创建你的训练步骤
   * 开始训练吧<(￣︶￣)↗\[GO!]
-  
+
+---
+
