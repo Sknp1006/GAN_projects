@@ -1,5 +1,9 @@
 # GAN_projects
 一些有关GAN的有趣项目  
+### 相关资源：
+  * 训练用的头像(273.46MB, 96x96, 51223张) 【[百度云](https://pan.baidu.com/s/1lcmXRihOPh8F55l294T45w)：zs1g】
+  * **FaceProcess** 依赖**DeepFaceLab3.15**，集成环境 **_internal** 太大，故请移步【[百度云](https://pan.baidu.com/s/1fdj5kAPsvgSqQR9GL1GOBQ)：rjzo】
+
 
 -------------------
 ## FaceProcess（数据预处理模块）
@@ -23,6 +27,7 @@
 ---
   
 ### README.md（中文版）  
+  * tf-gan链接：https://github.com/tensorflow/gan
 
 ### TF-GAN是用于训练和评估生成对抗网络（GAN）的轻量级库
   * 安装：pip install tensorflow_gan  
