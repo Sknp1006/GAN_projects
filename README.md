@@ -22,7 +22,7 @@
 
 ---
 
-![未完待续](https://cdn.jsdelivr.net/gh/Sknp1006/cdn/img/tobecontinued.jpg)
+![未完待续](https://cdn.jsdelivr.net/gh/Sknp1006/cdn@master/img/anime/tobecontinued.jpg)
 
 ---
   
